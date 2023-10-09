@@ -646,7 +646,7 @@ const defaultConfig = {
         {id: 'installable-manifest', weight: 2, group: 'pwa-installable'},
         // PWA Optimized
         {id: 'splash-screen', weight: 1, group: 'pwa-optimized'},
-        {id: 'themed-omnibox', weight: 1, group: 'pwa-optimized'},
+        {id: 'themed-onibox', weight: 1, group: 'pwa-optimized'},
         {id: 'content-width', weight: 1, group: 'pwa-optimized'},
         {id: 'viewport', weight: 2, group: 'pwa-optimized'},
         {id: 'maskable-icon', weight: 1, group: 'pwa-optimized'},
